@@ -1,0 +1,165 @@
+Folder PATH listing for volume OS
+Volume serial number is 000000F6 20ED:919B
+C:.
++---02 - Installing and Running Python
++---03 - Python Basics
+¦   +---02 - Basic Data Types
+¦   +---03 - Objects
+¦   +---04 - Variables
+¦   +---05 - Arithmetic Operators
+¦   +---06 - Operator Precedence
+¦   +---07 - Integer Division and Modulus
+¦   +---08 - Comparison Operators
+¦   +---09 - Boolean Operators
+¦   +---10 - Exercises
++---04 - Conditional Execution
+¦   +---02 - if_else
+¦   +---03 - elif
+¦   +---04 - ternary conditional operator
+¦   +---05 - Exercises
++---05 - Sequence Types
+¦   +---02 - Lists
+¦   +---03 - Tuples
+¦   +---04 - Strings
+¦   +---05 - Slicing
+¦   +---06 - Manipulating Sequences
+¦   +---07 - Copying Sequences
+¦   +---08 - Unpacking Sequences
+¦   +---09 - Exercises
++---06 - Strings
+¦   +---02 - Unicode
+¦   +---03 - Common String Methods
+¦   +---04 - String Interpolation
+¦   +---05 - Exercises
+¦       +---.ipynb_checkpoints
++---07 - Iteration
+¦   +---02 - The range Function
+¦   +---03 - For Loops
+¦   +---04 - While Loops
+¦   +---05 - Continue, Break and Else
+¦   +---06 - Exercises
++---08 - Dictionaries
+¦   +---02 - Associative Arrays and Dictionaries
+¦   +---03 - Iterating Dictionaries
+¦   +---04 - Working with Dictionaries
+¦   +---05 - Exercises
++---09 - Sets
+¦   +---02 - Python Sets
+¦   +---03 - Common Set Operations
+¦   +---03 - Exercises
++---10 - Comprehensions
+¦   +---02 - List Comprehensions
+¦   +---03 - Dictionary and Set Comprehensions
+¦   +---04 - Exercises
++---11 - Exceptions
+¦   +---02 - Raising Exceptions
+¦   +---03 - Handling Exceptions
+¦   +---04 - Exercises
++---12 - Iterables and Iterators
+¦   +---02 - Iterables and Iterators
+¦   +---03 - Generator Expressions
+¦   +---04 - Exercises
++---13 - Functions
+¦   +---02 - Custom Functions
+¦   +---03 - Star Arguments
+¦   +---04 - Default Values
+¦   +---05 - Keyword-Only Arguments
+¦   +---06 - Lambda Functions
+¦   +---07 - Exercises
++---14 - Some Additional Built-In Functions
+¦   +---02 - round
+¦   +---03 - sorted, min and max
+¦   +---04 - zip
+¦   +---05 - Exercises
++---15 - Practice Test 1
++---16 - Higher Order Functions
+¦   +---02 - Passing and Returning Functions
+¦   +---03 - map
+¦   +---04 - Closures
+¦   +---05 - Exercises
++---17 - Sorting and Filtering
+¦   +---02 - Filtering
+¦   +---03 - Sorting
+¦   +---04 - min and max
+¦   +---05 - Exercises
++---18 - Decorators
+¦   +---02 -Decorators
+¦   +---03 - LRU Cache
+¦   +---04 - Exercises
++---19 - Text Files
+¦   +---02 - Reading Text Files
+¦   +---03 - Writing Text Files
+¦   +---04 - Exercises
++---20 - Modules and Imports
+¦   +---02 - Basic Imports
+¦   +---03 - Import Variants
+¦   +---04 - Exercises
++---21 - Dates and Times
+¦   +---02 - The time Module
+¦   +---03 - The datetime Module
+¦   +---04 - Date Arithmetic
+¦   +---05 - Naive and Aware Times
+¦   +---06 - Custom Representations
+¦   +---07 - Exercises
++---22 - CSV Module
+¦   +---02 - Reading CSV Files
+¦   +---03 - Dialects
+¦   +---04 - More Examples Reading CSV Files
+¦   +---05 - Writing CSV Files
+¦   +---06 - Exercises
++---23 - Random Module
+¦   +---02 - Random Numbers
+¦   +---03 - Sampling and Shuffling
+¦   +---04 - Exercises
++---24 - Math and Statistics Module
+¦   +---02 - Math Module
+¦   +---03 - Statistics Module
+¦   +---04 - Exercises
++---25 - Decimal Module
+¦   +---02 - Decimal Objects
+¦   +---03 - Arithmetic Contexts
+¦   +---04 - Exercises
++---26 - Custom Classes
+¦   +---02 - Defining Classes
+¦   +---03 - Initialization
+¦   +---04 - Instance Methods
+¦   +---05 - Special Methods
+¦   +---06 - Properties
+¦   +---07 - Exercises
++---27 - Practice Test 2
++---28 - 3rd Party Libraries
+¦   +---02 - pytz
+¦   +---03 - dateutil
+¦   +---04 - JSON Data
+¦   +---06 - requests
+¦   +---07 - Exercises
++---29 - NumPy
+¦   +---02 - Creating Arrays from Lists
+¦   +---03 - Creating Arrays from Scratch
+¦   +---04 - Reshaping Arrays
+¦   +---05 - Stacking
+¦   +---06 - Indexing
+¦   +---07 - Slicing
+¦   +---08 - Fancy Indexing
+¦   +---09 - Masking
+¦   +---10 - Universal Functions
+¦   +---11 - Additional Math and Stats Functions
+¦   +---12 - Exercises
++---30 - Pandas
+¦   +---02 - Indexes
+¦   +---03 - Series
+¦   +---04 - DataFrames
+¦   +---05 - Selecting Data
+¦   +---06 - Missing Data
+¦   +---07 - Loading Data
+¦   +---08 - Basic Data Analysis
+¦   +---09 - Sorting and Filtering
+¦   +---10 - Manipulating Data
+¦   +---11 - Exercises
++---31 - Matplotlib
+¦   +---02 - Matplotlib Basics
+¦   +---03 - Multi Plots
+¦   +---04 - More Plot Types
+¦   +---05 - Charting with mplfinance
+¦   +---06 - Exercises
++---32 - Practice Test 3

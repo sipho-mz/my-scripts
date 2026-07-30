@@ -2,5 +2,6 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+python-fundamentals-main
 .env
-.pytest_cache
+.pytest_cache/

@@ -6,3 +6,4 @@ python-fundamentals-main/
 .env
 .pytest_cache/
 extra/
+.ipynb_checkpoints/

@@ -6,7 +6,5 @@ A collection of Python Scripts
 
 
 
-!\[CI](https://github.com/sipho-mz/my-scripts/actions/workflows/ci.yml/badge.svg)
-
-EOF
+![CI](https://github.com/sipho-mz/my-scripts/actions/workflows/ci.yml/badge.svg)
 

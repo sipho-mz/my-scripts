@@ -2,7 +2,7 @@
 
 
 
-A collection of Python Scripts
+A bunch of Python Scripts
 
 
 

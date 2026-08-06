@@ -8,3 +8,4 @@ python-fundamentals-main/
 extra/
 .ipynb_checkpoints/
 src/.ipynb_checkpoints/
+.ruff_cache/

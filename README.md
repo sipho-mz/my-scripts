@@ -2,7 +2,7 @@
 
 
 
-A collection of Python Scripts
+A currated collection of Python automation Scripts
 
 
 

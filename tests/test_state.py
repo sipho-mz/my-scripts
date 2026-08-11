@@ -1,6 +1,7 @@
 
-from hypothesis.stateful import RuleBasedStateMachine, rule, invariant
 from hypothesis import strategies as st
+from hypothesis.stateful import RuleBasedStateMachine, invariant, rule
+
 
 class DataStore:
     def __init__(self):

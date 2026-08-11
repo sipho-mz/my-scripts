@@ -10,3 +10,4 @@ PyYAML==6.0.3
 pytz==2026.2
 pytest==9.1.1
 ruff==0.16.1
+hypothesis==6.165.3

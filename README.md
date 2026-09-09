@@ -7,7 +7,7 @@ __A CI/CD pipeline to validate and check the changes I make to my data-ingestion
 - Github Actions   
    
 ### Language:   
-- Jupyter Notebooks -> Python Scripts via __%%write__
+- Python: Jupyter Notebooks -> *.py via __%%write__
    
 ### Testing and linting:    
 - pytest (example-based testing and termial feedback),     

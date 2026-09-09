@@ -1,13 +1,13 @@
 # scripts_ci_cd_pipeline
 
-A CI/CD pipeline to validate and check the changes I make to my data-ingestion and data-transformation scripts.       
+__A CI/CD pipeline to validate and check the changes I make to my data-ingestion and data-transformation scripts.__       
 
 ## Tools:    
 ### CI/CD:   
-Github Actions   
+- Github Actions   
    
 ### Language:   
-Jupyter Notebooks -> Python Scripts via %%write 
+- Jupyter Notebooks -> Python Scripts via __%%write__
    
 ### Testing and linting:    
 - pytest (example-based testing and termial feedback),     
